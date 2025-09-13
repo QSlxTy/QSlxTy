@@ -35,7 +35,7 @@
 - **Flask**   - **MySQL**    - **React**
 - **aiogram** - **openai**   - **GoogleCloudAPI**
 - **aiohttp** - **requests** - **Python**
-- **pandas**  - **Pillow**   - **TypeScript
+- **pandas**  - **Pillow**   - **TypeScript**
 
 
 ## Интересные  проекты
