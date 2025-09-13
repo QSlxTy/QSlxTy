@@ -32,14 +32,11 @@
 Склад ума у меня более математический, люблю графики, структуры и вычисления.
 
 ## Мой стек технологий
-- **Flask**
-- **MySQL**
-- **aiogram**
-- **openai**
-- **requests**
-- **aiohttp**
-- **pandas**
-- **Pillow**
+- **Flask**   - **MySQL**    - **React**
+- **aiogram** - **openai**   - **GoogleCloudAPI**
+- **aiohttp** - **requests** - **Python**
+- **pandas**  - **Pillow**   - **TypeScript
+
 
 ## Интересные  проекты
 
